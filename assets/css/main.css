@@ -1,0 +1,18 @@
+
+.square { background-color: #848484; height:4800px; width:100%;}
+
+.game{list-style: none; display:inline; width:100%;}
+.game li{display:inline; width:100px;}
+
+.header{width:100%; background-color:#424242; height:100px;}
+
+.menu{list-style: none; display:inline; width:100%; }
+.menu li{display:inline; width:100px; text-decoration:none;}
+.menu li a{color:white; font-size:17px; text-decoration:none;}
+.menu li a:hover{text-decoration:underline; display:inline;}
+
+.Title{list-style: none; display:inline; width:100%;}
+.Title li{display:inline; width:100px;}
+
+.submenu{list-style: none; display:inline; width:100%;}
+.submenu li{display:none; with:100%; position:absolute; min-width:140px}
